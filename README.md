@@ -29,9 +29,7 @@ Your suggestions and contributions are highly valued. If you have any improvemen
 
 Enjoy working with the project, and thank you for your support!
 
-![image](https://github.com/ImDoubD/Shirt-Design-Simulator/assets/129399840/34f94cb0-2a1a-4d11-88fe-b252dfc13f2c)
-
-![image](https://github.com/ImDoubD/Shirt-Design-Simulator/assets/129399840/c1fe7f42-d317-4286-b388-cffbac9030f6)
+![WhatsApp Image 2023-11-23 at 23 59 39_976d35ed](https://github.com/ImDoubD/Shirt-Design-Simulator/assets/129399840/e94debde-138a-493f-8623-3a412eed6253)
 
 ![image](https://github.com/ImDoubD/Shirt-Design-Simulator/assets/129399840/4fdd2f3e-a30f-4596-a8d5-1e8ab978eabb)
 
